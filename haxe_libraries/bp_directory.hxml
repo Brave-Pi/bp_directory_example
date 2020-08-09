@@ -1,0 +1,5 @@
+# @install: lix --silent download "gh://github.com/brave-pi/bp_directory#b03de077bc6e9f8eb92ca50d863c47ec9195e31b" into bp_directory/0.0.0/github/b03de077bc6e9f8eb92ca50d863c47ec9195e31b
+-lib tink_typegen
+-lib tink_web
+-cp ${HAXE_LIBCACHE}/bp_directory/0.0.0/github/b03de077bc6e9f8eb92ca50d863c47ec9195e31b/src
+-D bp_directory=0.0.0

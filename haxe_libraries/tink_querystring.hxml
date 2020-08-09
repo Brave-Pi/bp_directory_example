@@ -1,0 +1,5 @@
+# @install: lix --silent download "gh://github.com/brave-pi/tink_querystring#e45c325ca586c95f8c0d1b2a967304fcc6bcd91f" into tink_querystring/0.6.0/github/e45c325ca586c95f8c0d1b2a967304fcc6bcd91f
+-lib tink_typecrawler
+-lib tink_url
+-cp ${HAXE_LIBCACHE}/tink_querystring/0.6.0/github/e45c325ca586c95f8c0d1b2a967304fcc6bcd91f/src
+-D tink_querystring=0.6.0

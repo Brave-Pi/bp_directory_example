@@ -1,0 +1,13 @@
+--library  tink_web
+--library bp_mongodb
+--library bp_hquery
+--library bp_directory
+--library coconut.vdom
+--library hxnodejs
+-cp src
+--each
+-main FrontEndServer3
+--js bin/front.js
+--next
+--main BackEndServer
+--js bin/back.js
