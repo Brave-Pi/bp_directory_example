@@ -56,7 +56,7 @@ class Root {
             ${field("username")}
             ${field("name")}
             ${field("address")}
-            ${field("username")}
+            ${field("created")}
         </div>
         ' else "<h4>User not found.</h4>";
 	})
